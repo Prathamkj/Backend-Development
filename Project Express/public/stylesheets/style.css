@@ -1,0 +1,13 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}

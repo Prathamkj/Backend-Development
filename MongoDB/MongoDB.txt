@@ -1,0 +1,22 @@
+Theory of MONGODB
+
+Data Storage -- A place where we can store a data of a person 
+Database -- Manages the Data
+Types os Database -- Sql and NoSql
+
+Sql -- Data in form of Tables
+NoSql -- isme objectss hote hai {} 
+Nosql is a concepts that data is stored in the object format
+{
+    name: "pratham";
+}
+-- MONGODB -- 
+Database -> collections -> Documents
+
+in Code
+______________________________________
+Code                Database
+______________________________________
+mongose.connect ->  Database created
+model create    ->  collection 
+create          ->  Document Created

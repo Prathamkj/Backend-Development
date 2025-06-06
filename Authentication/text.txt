@@ -1,0 +1,15 @@
+1. Cookiess 
+-- to set the Cookiess
+-- Server se browser pe kuch data set kara dena is a Cookie in encrypted form
+
+-- cookie har route ke liye jayegi 
+
+2. Bcrypt
+-- Encryption and Decryption karta hai
+-- Encrypt -- 
+
+
+3. JWT
+ye 3 hisso se banta hai 
+1. Algo ka data
+2. data jo store karna hai
